@@ -3,17 +3,21 @@ This is a **interactive website** visualizing unemployment rate in Taiwan using 
 
 
 ## Website Present
-### 1. At first, it contains a line chart 
-This line chart represent the trend of unemployment rate during 2014 - 2021.
+<br \><br \>
+### 1. At first, it shows a line chart 
+This line chart represent the trend of unemployment rate during 2014 - 2021.<br \>
 ![1](/website-gif/1.gif) 
-
+<br \><br \>
 ### 2.  Click any node in line chart
-It will zoom in to a detail view in the selected year which is a stacked bar chart. Here present the the distribution of population by age for both Employment and Unemployment. 
+It will zoom in to a detail view in the selected year which is a stacked bar chart. Here present the the distribution of population by age for both Employment and Unemployment. <br \>
 ![2](/website-gif/2.gif) 
+<br \><br \>
 ### 3. Click the button above
 You can change the view either by age or by gender. Or you can just click **back** button to get back to original line chart. 
+<br \>
 ![3](/website-gif/3.gif) 
 ![4](/website-gif/4.gif) 
+
 ## Dependency
 * d3js v6
 ```
