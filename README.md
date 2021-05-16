@@ -1,23 +1,23 @@
 # d3js-data-visualization-unemployment-rate
 This is a **interactive website** visualizing unemployment rate in Taiwan using Javascript library d3js.
 
-
+<br /><br />
 ## Website Present
-<br \><br \>
+<br /><br />
 ### 1. At first, it shows a line chart 
-This line chart represent the trend of unemployment rate during 2014 - 2021.<br \>
+This line chart represent the trend of unemployment rate during 2014 - 2021.<br /><br />
 ![1](/website-gif/1.gif) 
-<br \><br \>
+<br /><br />
 ### 2.  Click any node in line chart
-It will zoom in to a detail view in the selected year which is a stacked bar chart. Here present the the distribution of population by age for both Employment and Unemployment. <br \>
+It will zoom in to a detail view in the selected year which is a stacked bar chart. Here present the the distribution of population by age for both Employment and Unemployment. <br /><br />
 ![2](/website-gif/2.gif) 
-<br \><br \>
+<br /><br />
 ### 3. Click the button above
 You can change the view either by age or by gender. Or you can just click **back** button to get back to original line chart. 
-<br \>
+<br /><br />
 ![3](/website-gif/3.gif) 
 ![4](/website-gif/4.gif) 
-
+<br /><br />
 ## Dependency
 * d3js v6
 ```
