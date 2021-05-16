@@ -12,7 +12,7 @@ It will zoom in to a detail view in the selected year which is a stacked bar cha
 ![2](/website-gif/2.gif) 
 <br /><br />
 ### 3. Click the button above
-You can change the view either by age or by gender. Or you can just click **back** button to get back to original line chart. 
+You can change the view either **by age** or **by gender**. Or you can just click **back** button to get back to original line chart. 
 <br /><br />
 ![3](/website-gif/3.gif) 
 ![4](/website-gif/4.gif) 
@@ -22,6 +22,6 @@ You can change the view either by age or by gender. Or you can just click **back
 ```
 <script src="https://d3js.org/d3.v6.js"></script>
 ```
-
+<br />
 ## Data Acquisition
 Data is download from [National Statistics, ROC](https://www.stat.gov.tw/ct.asp?xItem=37135&ctNode=517&mp=4), and process manually to target .json format.
