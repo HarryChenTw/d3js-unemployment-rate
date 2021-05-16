@@ -25,4 +25,4 @@ You can change the view either **by age** or **by gender**. Or you can just clic
 <br />
 
 ## Data Acquisition
-Data is download from [National Statistics, ROC](https://www.stat.gov.tw/ct.asp?xItem=37135&ctNode=517&mp=4), and process manually to target .json format.
+Data is download from [National Statistics, ROC](https://www.stat.gov.tw/ct.asp?xItem=37135&ctNode=517&mp=4), and process manually to target .csv files.
