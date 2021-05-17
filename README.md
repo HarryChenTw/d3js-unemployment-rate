@@ -26,3 +26,7 @@ You can change the view either **by age** or **by gender**. Or you can just clic
 
 ## Data Acquisition
 Data is download from [National Statistics, ROC](https://www.stat.gov.tw/ct.asp?xItem=37135&ctNode=517&mp=4), and process manually to target .csv files.
+
+## Issues
+1. In stacked bar chart, the population of Employment is quite larger than Unemployment. Thus, some area in  Unemployment part is too small to identify.
+2. The distribution of population (stacked bar chart) between years is too similar to tell the difference by this way.
