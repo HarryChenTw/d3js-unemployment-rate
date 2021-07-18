@@ -1,5 +1,5 @@
 # d3js-unemployment-rate
-This is a **interactive website** visualizing unemployment rate in Taiwan using Javascript library d3js.
+This is a **interactive website (chart)** visualizing unemployment rate in Taiwan using Javascript library d3js.
 <br /><br />
 
 ## Website Present
